@@ -98,7 +98,7 @@ Host Your instance of COnsumet API on Cloudfare Workers using the button below.
 ### Render
 Host your own instance of Consumet API on Render using the button below.
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/consumet/api.consumet.org)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/The-RJ-Studios/Manga-API)
 
 ### Railway
 Host your own instance of Consumet API on Railway using the button below.
