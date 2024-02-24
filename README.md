@@ -88,6 +88,11 @@ Host your own instance of Consumet API on Vercel using the button below.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fconsumet%2Fapi.consumet.org)
 
+
+### Cloudfare worker
+Host Your instance of COnsumet API on Cloudfare Workers using the button below.
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/The-RJ-Studios/Manga-API)
+
 ### Render
 Host your own instance of Consumet API on Render using the button below.
 
