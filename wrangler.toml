@@ -1,4 +1,5 @@
-name = "consumet-api"
+# wrangler.toml
+name = 'manga-api'
 main = "src/index.js"        # adjust if your entrypoint is different
 compatibility_date = "2025-09-14"
 
@@ -9,6 +10,9 @@ REDIS_HOST = ""
 REDIS_PORT = ""
 REDIS_PASSWORD = ""
 NPM_CONFIG_LOGLEVEL = "warn"
+# wrangler.toml (wrangler v3.88.0^)
+[observability.logs]
+enabled = false
 
 # Optional: KV Namespace example if you want caching
 # [[kv_namespaces]]
