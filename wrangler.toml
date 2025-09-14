@@ -1,0 +1,18 @@
+name = "consumet-api"
+main = "src/index.js"        # adjust if your entrypoint is different
+compatibility_date = "2025-09-14"
+
+[vars]
+NODE_ENV = "PROD"
+PORT = "3000"
+REDIS_HOST = ""
+REDIS_PORT = ""
+REDIS_PASSWORD = ""
+NPM_CONFIG_LOGLEVEL = "warn"
+
+# Optional: KV Namespace example if you want caching
+# [[kv_namespaces]]
+# binding = "CACHE"
+# id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
+# Optional: Queue, D1, R2 bindings go here
